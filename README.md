@@ -146,19 +146,19 @@ Display & Save Results
 ### Input Image
 
 
-images/input.jpg
+![Input Image](images/input.jpg)
 
 
 ### Detected License Plate
 
 
-images/detected_license_plate.jpg
+![Detected License Plate](images/detected_license_plate.jpg)
 
 
 ### OCR Result
 
 ```
-MH12AB1234
+MH20EE7602
 ```
 
 
